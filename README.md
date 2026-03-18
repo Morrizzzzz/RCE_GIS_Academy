@@ -21,9 +21,11 @@ In deze video worden basis begrippen van een desktop GIS toegelicht. Hoe zit dez
 - [Publieke Data op de Kaart](https://www.pdok.nl/) 
 
 ## Video 3 Introductie op GIS desktop applicaties - Deel 2 data analyse
+In deze video wordt laten zien hoe je in de desktop applicatie QGIS basis analyses uit kan voeren.
 [VIDEO 3](https://www.dropbox.com/scl/fi/t7gvd6eoyvf0n4wcy5ywm/3_RCE_intro_GIS_Quick_tour_QGIS_part2.mp4?rlkey=xr2ad72g0afc133l7ce1j2msl&dl=0)
 
 ## Video 4 Input voor Data Aggregatie platform 
+In deze video zet ik uiteen wat ik denk dat relevant is voor het DAP en kijk ik tegelijk naar praktische implementatie mogelijkheden. Bottomline van mijn beeld is dat we op OGC-API standaarden in moeten zetten en dat de database daaronder voor de gebruiker niet zo relevant is.  
 [VIDEO 4](https://www.dropbox.com/scl/fi/1b4xgptalf7g1ime23kkv/4_RCE_intro_GIS_DAP_input.mp4?rlkey=tj5cwyfuc4x223yi13tdmh4nk&dl=0)
 
 **Nuttige links:**
@@ -37,6 +39,7 @@ In deze video worden basis begrippen van een desktop GIS toegelicht. Hoe zit dez
 - [Spatial Reference](https://spatialreference.org/)
 - [Geodatabases course VU](https://vu.nl/en/education/master/geographical-information-sciences/curriculum) (korte beschrijving)
 - [PostGIS](https://postgis.net/) [tutorials](https://postgis.net/workshops/postgis-intro/)
+- [Architectuur Schetsen IenW][https://geoinformatienederland.nl/nieuws/geonovum-publiceert-inventarisaties-data-ecosystemen]
 
 
 
