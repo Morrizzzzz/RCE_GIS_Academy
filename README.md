@@ -39,7 +39,7 @@ In deze video zet ik uiteen wat ik denk dat relevant is voor het DAP en kijk ik 
 - [Spatial Reference](https://spatialreference.org/)
 - [Geodatabases course VU](https://vu.nl/en/education/master/geographical-information-sciences/curriculum) (korte beschrijving)
 - [PostGIS](https://postgis.net/) [tutorials](https://postgis.net/workshops/postgis-intro/)
-- [Architectuur Schetsen IenW][https://geoinformatienederland.nl/nieuws/geonovum-publiceert-inventarisaties-data-ecosystemen]
+- [Architectuur Schetsen IenW](https://geoinformatienederland.nl/nieuws/geonovum-publiceert-inventarisaties-data-ecosystemen)
 
 
 
