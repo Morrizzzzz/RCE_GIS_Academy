@@ -1,5 +1,5 @@
 # RCE GIS Academy
-Op deze pagina wordt een aantal videos gegeven die fungeren als introductie op GIS en Geodata en de relatie tot het te ontwikkelen Data Aggregatie platform.
+Op deze pagina wordt een aantal videos gegeven die fungeren als introductie op GIS en geodata en de relatie tot het te ontwikkelen Data Aggregatie platform in de context van het programma DNA-Nl.
 
 ## Video 1 Introductie op Geo data
 Geeft een overzicht van de theorie rondom Geodata. Er wordt een onderscheidt gemaakt tussen discrete fenomemen en continious fenomenen in de realiteit en hoe die digitaal gerepresenteerd kunnen worden. Er wordt daarbij een odnerscheid gemaakt tussen Raster en Vector data. Daarnaast wordt een verschil gemaakt tussen 1) gemeten data, 2) geobserveerde data en 3) gemodelleerde data. 
