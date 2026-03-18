@@ -17,8 +17,8 @@ In deze video worden basis begrippen van een desktop GIS toegelicht. Hoe zit dez
 [VIDEO 2](https://www.dropbox.com/scl/fi/ckqsswyp2f6o8zop7swu4/2_RCE_intro_GIS_Quick_tour_QGIS_part1.mp4?rlkey=6bpz6yjjqh2gq5wt0gpuq3wbu&dl=0)
 
 **Nuttige links:**
-[Erfgoed Atlas](https://rce.webgis.nl/nl/map/erfgoedatlas)
-[Publieke Data op de Kaart](https://www.pdok.nl/) 
+- [Erfgoed Atlas](https://rce.webgis.nl/nl/map/erfgoedatlas)
+- [Publieke Data op de Kaart](https://www.pdok.nl/) 
 
 ## Video 3 Introductie op GIS desktop applicaties - Deel 2 data analyse
 [VIDEO 3](https://www.dropbox.com/scl/fi/t7gvd6eoyvf0n4wcy5ywm/3_RCE_intro_GIS_Quick_tour_QGIS_part2.mp4?rlkey=xr2ad72g0afc133l7ce1j2msl&dl=0)
@@ -28,10 +28,8 @@ In deze video worden basis begrippen van een desktop GIS toegelicht. Hoe zit dez
 
 **Nuttige links:**
 - [Slides Niene Boeijen](https://nieneb.github.io/codamx/#/2)
-
 - de Kleijn, M., van Manen, N., Kolen, J. C. A., & Scholten, H. J. (2014). Towards a User-centric SDI Framework for Historical and Heritage European Landscape Research. International Journal of Spatial Data Infrastructures Research, 9(1), 1. Article 1. [https://doi.org/10.2902/1725-0463.2014.09.art1](https://doi.org/10.2902/1725-0463.2014.09.art1)
 - [Intro to Geospatial python cursus](https://esciencecenter-digital-skills.github.io/geospatial-python/)
-
 - [Geonovum](www.geonovum.nl/)
 - [Geonovum OGC-API cursusmateriaal](https://github.com/Geonovum/ogc-api-workshops/tree/main)
 - [OGC-API](https://ogcapi.ogc.org/)
